@@ -1,0 +1,3 @@
+myTwit.py:
+  This app gets the latest tweets from supplied Twitter handle and displays them as a scroller on the Adafruit LCD RGB display.
+
